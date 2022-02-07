@@ -1,4 +1,4 @@
-# <center>Práticas em Desenvolvimento de Software (KickStart)</center>
+# <center>Práticas em Desenvolvimento de Software (Templates)</center>
 
 <p align="center">
   <img src="logo_transp-222x300.png" height="150px" />
