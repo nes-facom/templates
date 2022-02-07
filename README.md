@@ -1,7 +1,7 @@
 # <center>Práticas em Desenvolvimento de Software (Templates)</center>
 
 <p align="center">
-  <img src="logo_transp-222x300.png" height="150px" />
+  <img src="Logo1-NES_branco.png" height="175px" />
 </p>
 
 Este repositório tem como objetivo reunir modelos de documentos e artefatos que podem ser produzidos durante o processo de desenvolvimento do projeto no escopo da disciplinas de Prática em Desenvolvimento de Software I e II da Faculdade de Computação (FACOM) da Universidade Federal do Mato Grosso do Sul (UFMS).
