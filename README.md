@@ -29,6 +29,7 @@ Os artefatos estão separados pelos seguintes tópicos:
   - Diretrizes para escrita de estórias [`docx`](requisitos/diretrizes_escrita_estorias.docx) [`md`](requisitos/diretrizes_escrita_estorias.md)
   - Especificação de Requisitos de Software [`docx`](requisitos/especificacao_requsitos_software.docx) [`md`](requisitos/especificacao_requsitos_software.md)
   - Matriz de Rastreabilidade [`xlsx`](requisitos/matriz_rastreabilidade.xlsx) [`md`](requisitos/matriz_rastreabilidade.md)
+  - Lean Inception Relâmpago [`md`](requisitos/lean_inception_relampago.md)
 - [Verificação, Validação e Testes](vvt)
   - Casos de Teste [`docx`](vvt/template_casos_teste.docx) [`md`](vvt/template_casos_teste.md)
   - Relato Bug [`docx`](vvt/template_relato_bug.docx) [`md`](vvt/template_relato_bug.md)
